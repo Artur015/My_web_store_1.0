@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This is a modern fashion e-commerce storefront built with Next.js and React. It features a responsive landing page, product catalog, category sections, product search, shopping cart, registration modal, and a dedicated /shop page for browsing all products.
+The project uses reusable React components, custom hooks for state management, localStorage for cart and registration data, and a clean file structure that is easy to extend and maintain.
+
 ## Getting Started
 
 First, run the development server:
