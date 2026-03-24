@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto1.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 2,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto2.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 3,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto3.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 4,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto4.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 5,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto5.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 6,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.0,
+    "image": "/foto6.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 7,
+    "title": "ROSALIA SATIN DRESS",
+    "price": 64.0,
+    "image": "/foto1.jpeg",
+    "description": "Soft satin finish with a clean silhouette for evening events."
+  },
+  {
+    "id": 8,
+    "title": "MILANO CITY BLAZER",
+    "price": 88.0,
+    "image": "/foto2.jpeg",
+    "description": "Tailored blazer with a structured fit for a polished daily look."
+  },
+  {
+    "id": 9,
+    "title": "URBAN LIGHT TRENCH",
+    "price": 91.0,
+    "image": "/foto3.jpeg",
+    "description": "A lightweight trench coat designed for layering across seasons."
+  },
+  {
+    "id": 10,
+    "title": "LUNA KNIT SET",
+    "price": 57.0,
+    "image": "/foto4.jpeg",
+    "description": "Comfortable knit essentials with a premium soft-touch texture."
+  },
+  {
+    "id": 11,
+    "title": "MONACO LINE TROUSERS",
+    "price": 49.0,
+    "image": "/foto5.jpeg",
+    "description": "Minimal trousers with a refined cut and easy day-to-night styling."
+  },
+  {
+    "id": 12,
+    "title": "NOIR EDIT JACKET",
+    "price": 95.0,
+    "image": "/foto6.jpeg",
+    "description": "Sharp outerwear piece made to elevate modern capsule wardrobes."
+  },
+  {
+    "id": 13,
+    "title": "SOHO WEEKEND BLOUSE",
+    "price": 46.0,
+    "image": "/foto1.jpeg",
+    "description": "Relaxed blouse with elegant detailing for casual premium outfits."
+  },
+  {
+    "id": 14,
+    "title": "ARIA LAYERED SKIRT",
+    "price": 54.0,
+    "image": "/foto2.jpeg",
+    "description": "Flowing layered silhouette that adds movement and texture."
+  },
+  {
+    "id": 15,
+    "title": "SIGNATURE SOFT HOODIE",
+    "price": 42.0,
+    "image": "/foto3.jpeg",
+    "description": "Relaxed luxury hoodie crafted for comfort without losing shape."
+  },
+  {
+    "id": 16,
+    "title": "MODERN ESSENTIAL TEE",
+    "price": 28.0,
+    "image": "/foto4.jpeg",
+    "description": "A versatile everyday tee with a clean fit and elevated fabric feel."
+  }
+]

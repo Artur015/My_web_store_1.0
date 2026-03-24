@@ -1,0 +1,11 @@
+export { CartModal } from "@/components/home/CartModal";
+export { CategoriesSection } from "@/components/home/CategoriesSection";
+export { HeaderOverlay } from "@/components/home/HeaderOverlay";
+export { HeroSection } from "@/components/home/HeroSection";
+export { NotificationToast } from "@/components/home/NotificationToast";
+export { ProductCard } from "@/components/home/ProductCard";
+export { ProductSection } from "@/components/home/ProductSection";
+export { RegisterModal } from "@/components/home/RegisterModal";
+export { SiteFooter } from "@/components/home/SiteFooter";
+export { StorefrontPage } from "@/components/home/StorefrontPage";
+export { StoreHighlights } from "@/components/home/StoreHighlights";
